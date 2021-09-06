@@ -9,7 +9,6 @@ readline.question('Please enter three different numbers ', (inputs) => {
     const numbers = inputs.split(" ");
     if (numbers.length != 3) {
         throw 'Please enter three proper numbers!';
-
     }
 
     console.log("Sum: " + sum(numbers));
@@ -26,8 +25,7 @@ function sum(numbers) {
 }
 
 function average(numbers) {
-    //return Math.floor(numbers.reduce((number1, number2) => parseInt(number1) + parseInt(number2)) / numbers.length);
-    return Math.average(numbers);
+    return Math.floor(numbers.reduce((number1, number2) => parseInt(number1) + parseInt(number2)) / numbers.length);
 }
 
 function product(numbers) {
