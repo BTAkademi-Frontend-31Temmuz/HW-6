@@ -4,13 +4,13 @@ This homework contains three sub homeworks. We will explain the outputs in detai
 ## Homework-1
 How to run the program: 
 ```bash
-node Homework-1.txt
+node Homework-1.js
 ```
 
 ## Homework-2
 How to run the program: 
 ```bash
-node Homework-2.txt
+node Homework-2.js
 ```
 How it outputs:
 ```bash
@@ -22,7 +22,7 @@ Please enter a number 89765
 ## Homework-3
 How to run the program: 
 ```bash
-node Homework-3.txt
+node Homework-3.js
 ```
 How it outputs:
 ```bash
