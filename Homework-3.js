@@ -9,7 +9,6 @@ readline.question('Please enter three different numbers ', (inputs) => {
     const numbers = inputs.split(" ");
     if (numbers.length != 3) {
         throw 'Please enter three proper numbers!';
-
     }
 
     console.log("Sum: " + sum(numbers));
