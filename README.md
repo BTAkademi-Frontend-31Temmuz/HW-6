@@ -2,9 +2,11 @@
 
 This homework contains three sub homeworks. We will explain the outputs in details as follows:
 ## Homework-1-A
+This program calculates the squares and cubes of the numbers from 0 to 10. 
+
 How to run the program: 
 ```bash
-node Homework-1-a.js
+node Homework-1-A.js
 ```
 How it outputs:
 ```bash
@@ -21,7 +23,24 @@ Number: 9        Square: 81      Qube: 729
 Number: 10       Square: 100     Qube: 1000
 ```
 
+## Homework-1-B
+This program reads the user’s weight in kilograms and height in meters then calculates and displays the user’s body mass index.
+
+How to run the program: 
+```bash
+node Homework-1-B.js
+```
+How it outputs:
+```bash
+Please enter your weight in kilograms  94.1
+Please enter your height in meters  1.78
+BMI value: 29.699532887261707
+BMI level: Overweight 
+```
+
 ## Homework-2
+This program reads one five-digit number and then separates the number into its individual digits and prints the digits separated from one another by three spaces each.
+
 How to run the program: 
 ```bash
 node Homework-2.js
@@ -34,6 +53,8 @@ Please enter a number 89765
 
 
 ## Homework-3
+This program reads three different integers from the keyboard, then prints the sum, the average, the product, the smallest and the largest of these numbers.
+
 How to run the program: 
 ```bash
 node Homework-3.js
