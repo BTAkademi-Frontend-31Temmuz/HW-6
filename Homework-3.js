@@ -26,8 +26,7 @@ function sum(numbers) {
 }
 
 function average(numbers) {
-    //return Math.floor(numbers.reduce((number1, number2) => parseInt(number1) + parseInt(number2)) / numbers.length);
-    return Math.average(numbers);
+    return Math.floor(numbers.reduce((number1, number2) => parseInt(number1) + parseInt(number2)) / numbers.length);
 }
 
 function product(numbers) {
