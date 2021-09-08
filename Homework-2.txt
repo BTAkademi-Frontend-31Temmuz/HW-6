@@ -1,2 +1,0 @@
-Write a program that inputs one five-digit number, separates the number into its individual digits and 
-prints the digits separated from one another by three spaces each.
