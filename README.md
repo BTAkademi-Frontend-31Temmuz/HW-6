@@ -4,7 +4,7 @@ This homework contains three sub homeworks. We will explain the outputs in detai
 ## Homework-1-A
 How to run the program: 
 ```bash
-node Homework-1-a.js
+node Homework-1-A.js
 ```
 How it outputs:
 ```bash
@@ -19,6 +19,19 @@ Number: 7        Square: 49      Qube: 343
 Number: 8        Square: 64      Qube: 512
 Number: 9        Square: 81      Qube: 729
 Number: 10       Square: 100     Qube: 1000
+```
+
+## Homework-1-B
+How to run the program: 
+```bash
+node Homework-1-B.js
+```
+How it outputs:
+```bash
+Please enter your weight in kilograms  94.1
+Please enter your height in meters  1.78
+BMI value: 29.699532887261707
+BMI level: Overweight 
 ```
 
 ## Homework-2
